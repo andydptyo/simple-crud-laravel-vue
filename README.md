@@ -31,4 +31,5 @@ open `localhost:8080` in a browser
 
 ## Seed
 Email : admin@superhelper.id
+
 Password : 123456789
