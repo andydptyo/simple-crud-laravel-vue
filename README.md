@@ -25,11 +25,11 @@ go to vue-cli folder
 
 `npm install` or `yarn`
 
-`yarn serve` it will run in `localhost:8080`
+`npm run serve` or `yarn serve` it will run in `localhost:8080`
 
 open `localhost:8080` in a browser
 
 ## Seed
-Email : ```admin@superhelper.id```
+Email : `admin@superhelper.id`
 
-Password : ```123456789```
+Password : `123456789`
