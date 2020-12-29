@@ -1,4 +1,4 @@
-# learn-vue
+# vue-cli
 
 ## Project setup
 ```
